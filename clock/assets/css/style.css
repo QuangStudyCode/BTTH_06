@@ -1,0 +1,16 @@
+.box{
+    height: 1000px;
+}
+
+.container>div{
+    width: 600px;
+}
+
+.bg-light {
+    background-color: #f8f9fa!important;
+    font-size: 50px;
+}
+h2#title_hello {
+    
+    margin-top: 20px;
+}
